@@ -1,4 +1,4 @@
-# Pong-by-Flammablish
+# Pong by Flammablish
 A pong game made by me using c++ and Visual studio
 Helped by Nick From Programming with Nick "I just watched his tutorial"
 
@@ -10,8 +10,8 @@ While following nick tutorial 😅
 Download raylib
 Install it
 Download the cpp raylib starter thing by Nick with this link :
-__
-Compile and there you go !
+_https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE_
+Compile it and there you go !
 
 # How to play?
 You don't know how to play pong? Seriously? Ok.
