@@ -17,9 +17,9 @@ Compile and there you go !
 You don't know how to play pong? Seriously? Ok.
 
 # Special Thanks To !
-Nick Koumaris (Programming With Nick)
-My mom (being the best mom)
-My father (being the best dad)
+Nick Koumaris (Programming With Nick).
+My mom (being the best mom).
+My father (being the best dad).
 And myself (for trying to understand what's happening while getting so much error codes)
 
 Thanks for seeing this repo !
