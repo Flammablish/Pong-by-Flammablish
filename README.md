@@ -4,7 +4,7 @@ Helped by Nick From Programming with Nick "I just watched his tutorial"
 
 # What is this?
 This repo is a source code for my pong game that I made myself
-Fwhile following nick tutorial 😅
+While following nick tutorial 😅
 
 # How to Setup / Play?
 Download raylib
